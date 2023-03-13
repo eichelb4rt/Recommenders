@@ -1,0 +1,7 @@
+INPUT_DIR = "input"
+OUTPUT_DIR = "output"
+PLOT_DIR = "plots"
+
+MIN_RATING = 0
+MAX_RATING = 4
+MISSING_RATING = -1
